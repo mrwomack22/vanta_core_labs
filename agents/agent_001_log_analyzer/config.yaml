@@ -1,0 +1,7 @@
+# config.yaml - Settings for SEED_AGENT_001
+
+target_log_file: 'sample_system.log'
+
+keywords_to_find:
+  - 'ERROR'
+  - 'FAILURE'
